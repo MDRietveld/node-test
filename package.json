@@ -1,0 +1,24 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDRietveld/node-test.git"
+  },
+  "author": "Martijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDRietveld/node-test/issues"
+  },
+  "homepage": "https://github.com/MDRietveld/node-test#readme",
+  "dependencies": {
+    "graphql": "^15.4.0",
+    "graphql-request": "^3.4.0"
+  },
+  "devDependencies": {}
+}
